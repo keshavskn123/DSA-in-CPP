@@ -7,7 +7,7 @@ public:
     int val;
     Node* left;
     Node* right;
-    // Constructor with parametrs
+    // Constructor with parameters
     Node(int val) {
         this->val = val;
         this->left = NULL;
